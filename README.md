@@ -94,6 +94,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/new/project?template=https://github.com/mertcanyucel/gatsby-getform-example)
 
-
-
 <!-- AUTO-GENERATED-CONTENT:END -->
